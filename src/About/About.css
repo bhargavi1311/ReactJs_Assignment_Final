@@ -1,0 +1,18 @@
+.list{
+    text-align: center;
+    margin-top: 10px;
+    background-color: #f7444e ;
+    height: fit-content;
+    padding: 70px;
+    color: white;
+}
+
+.footer-other{
+    background-color: #002c3e;
+    color: white;
+}
+
+a:hover{
+    color: #f7444e !important;
+  }
+
